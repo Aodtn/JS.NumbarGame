@@ -1,1 +1,1 @@
-# JS.NumbarGame
+# JS.NumberGame
